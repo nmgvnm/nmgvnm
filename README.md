@@ -33,20 +33,3 @@ I'm a front-end developer with a passion for creating user-friendly and visually
 </div>
 
 ---
-
-### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmgvnm&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nmgvnm&show_icons=true&count_private=true&theme=tokyonight)
-
----
-
-### 🚀 Fun Facts & More
-- 🌱 Currently learning **advanced React patterns & GraphQL**
-- 💬 Ask me about **front-end development & UI/UX design**
-- 🎯 My goal is to **create seamless user experiences**
-- 🎨 I love **creating digital illustrations in my free time**
-
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoonjin/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yoonjin)
